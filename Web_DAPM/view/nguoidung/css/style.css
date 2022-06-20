@@ -361,17 +361,17 @@ nav{
     background-color: #66B7DA;
 }
 .footer-left .col-md-4{
-    margin-top: 15px;
+    /* margin-top: 15px; */
     margin-left: 50px;
 }
 .footer-right{
     right: 0;
     
 }
-.footer-right .footer-link ul li{
+/* .footer-right .footer-link ul li{
     margin-top: 15px;
     
-}
+} */
 .footer-right .footer-link ul li{
     display: flex;
     float: left;
